@@ -13,7 +13,7 @@ for j in range(len(User_Input)//2):
             break
 else:
     print("The Given Word Is a Palindrome")
-    
+     
 #changed the simpler code version
 # User_Input=input("Enter a Word:")
 # l=0
